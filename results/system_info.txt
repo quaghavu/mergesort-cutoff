@@ -1,0 +1,9 @@
+OS: Windows 11 10.0 (amd64)
+Java: 25.0.2 - Java HotSpot(TM) 64-Bit Server VM
+CPU cores (logical): 16
+Max heap (MB): 2048
+Warm-up rounds: 5, trials: 20, seed: 12345
+CPU: 13th Gen Intel(R) Core(TM) i7-13620H, 10 nhân / 16 luồng, xung cơ bản 2.40 GHz, L3 cache 24 MB
+RAM: 24 GB DDR5, 4800 MT/s (2 SODIMM)
+Ổ đĩa: SSD NVMe
+Nguồn: dùng pin, Power mode = Balanced

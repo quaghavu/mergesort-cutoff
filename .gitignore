@@ -1,0 +1,13 @@
+# Java / IntelliJ
+out/
+*.class
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
